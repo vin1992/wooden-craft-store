@@ -1,5 +1,5 @@
 # Prerequisites
-*.d
+#*.d
 
 # Object files
 *.o
@@ -9,7 +9,7 @@
 
 # Linker output
 *.ilk
-*.map
+#*.map
 *.exp
 
 # Precompiled Headers
@@ -17,7 +17,7 @@
 *.pch
 
 # Libraries
-*.lib
+#*.lib
 *.a
 *.la
 *.lo

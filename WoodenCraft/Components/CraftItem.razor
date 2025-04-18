@@ -1,0 +1,20 @@
+@using WoodenCraft
+
+<div class="craft">
+    <div class="pic">
+        <img src="@Assets[@Craft.Url]" alt="">
+    </div>
+    <div class="info">
+        <div class="name h5">@Craft.Name</div>
+        <div class="description">@Craft.Description</div>
+        <div class="size">@Craft.Size x @Craft.Size in</div>
+        <div class="price">$@Craft.Price</div>
+    </div>
+   
+</div>
+
+@code {
+
+    [Parameter]
+    public Craft Craft { get; set; } 
+}

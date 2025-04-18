@@ -3,3 +3,14 @@
 <PageTitle>Home</PageTitle>
 
 <Philosophy></Philosophy>
+
+@foreach (var craft in craftList)
+{
+    <CraftItem Craft="craft"></CraftItem>
+}
+
+@code {
+
+    private List<Craft> craftList = Helper.GetCrafts();
+
+}

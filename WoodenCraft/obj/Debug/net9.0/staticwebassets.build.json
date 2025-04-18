@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oxaqiWzpwcsApeUc7zRTDH1y4xPDR3Vil/kPQaLnnkw=",
+  "Hash": "VcdqoOPT0KZ/nDXJWEbZndqlkUdmzftuIeNTZSjSSgY=",
   "Source": "WoodenCraft",
   "BasePath": "_content/WoodenCraft",
   "Mode": "Default",
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-w7mf952350.gz",
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-99d7rv2jsi.gz",
       "SourceId": "WoodenCraft",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WoodenCraft",
-      "RelativePath": "app#[.{fingerprint=w7mf952350}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=99d7rv2jsi}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ohxqq2xv9x",
-      "Integrity": "DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s=",
+      "Fingerprint": "cl6wimn77b",
+      "Integrity": "oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/app.css"
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-axl6txk15a.gz",
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-5btw8h4h8f.gz",
       "SourceId": "WoodenCraft",
       "SourceType": "Computed",
       "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WoodenCraft",
-      "RelativePath": "WoodenCraft#[.{fingerprint=axl6txk15a}]?.styles.css.gz",
+      "RelativePath": "WoodenCraft#[.{fingerprint=5btw8h4h8f}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/bundle/WoodenCraft.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qnhchfzmyr",
-      "Integrity": "mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=",
+      "Fingerprint": "8gqpd4tq30",
+      "Integrity": "2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/bundle/WoodenCraft.styles.css"
@@ -668,12 +668,12 @@
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-axl6txk15a.gz",
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-5btw8h4h8f.gz",
       "SourceId": "WoodenCraft",
       "SourceType": "Computed",
       "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WoodenCraft",
-      "RelativePath": "WoodenCraft#[.{fingerprint=axl6txk15a}]!.bundle.scp.css.gz",
+      "RelativePath": "WoodenCraft#[.{fingerprint=5btw8h4h8f}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -682,8 +682,8 @@
       "RelatedAsset": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/projectbundle/WoodenCraft.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qnhchfzmyr",
-      "Integrity": "mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=",
+      "Fingerprint": "8gqpd4tq30",
+      "Integrity": "2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/projectbundle/WoodenCraft.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "axl6txk15a",
-      "Integrity": "gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=",
+      "Fingerprint": "5btw8h4h8f",
+      "Integrity": "nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/bundle/WoodenCraft.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "axl6txk15a",
-      "Integrity": "gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=",
+      "Fingerprint": "5btw8h4h8f",
+      "Integrity": "nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/projectbundle/WoodenCraft.bundle.scp.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w7mf952350",
-      "Integrity": "PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0=",
+      "Fingerprint": "99d7rv2jsi",
+      "Integrity": "3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.css"
@@ -1086,6 +1086,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/facebook.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/facebook#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w72a02umm9",
+      "Integrity": "vNETeOthMxhqJCS/LB3vtQAAzYiTiZAWZp8GZuzX9+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/facebook.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/instagram.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/instagram#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cwgb8d7wm4",
+      "Integrity": "TPaGPBJkpbAeRUqs2xGrvNnh+nuF+iF9TURSIzXXYl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/instagram.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/linkedin.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/linkedin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4lg20xf2c",
+      "Integrity": "Ex/oz3CY7pjtIB53l19na4qlZFyv9WxdPZ9Yv+7cHaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/linkedin.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/logo.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nlgy80k62y",
+      "Integrity": "da/N+W8IKMzqIEEuFS7lwRef3XVFvepH5An30BGafds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/logo.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/philosophy-pic.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/philosophy-pic#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qnzc0sy8x0",
+      "Integrity": "erDJoK6XKJik9qGQBGkRCXA4qk4dM0QVKPslO9zoNR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/philosophy-pic.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/pinterest.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/pinterest#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p9m4f3nv5j",
+      "Integrity": "vdTYJ8eEsbA+KU/mhBYDf0F8pW1teg5zffws65fzkhg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/pinterest.png"
+    },
+    {
+      "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/trees.png",
+      "SourceId": "WoodenCraft",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/",
+      "BasePath": "_content/WoodenCraft",
+      "RelativePath": "images/trees#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q9yx1bvob0",
+      "Integrity": "Qjf1H7eUmsaMuUfwCx3kgz4LMjGqBb6sH44QmIW+X4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/trees.png"
     },
     {
       "Identity": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -2014,13 +2161,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-w7mf952350.gz",
+      "Route": "app.99d7rv2jsi.css",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-99d7rv2jsi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000638977636"
+          "Quality": "0.002463054187"
         }
       ],
       "ResponseHeaders": [
@@ -2030,19 +2177,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1564"
+          "Value": "405"
         },
         {
           "Name": "ETag",
-          "Value": "\"DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s=\""
+          "Value": "\"oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2058,18 +2205,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0=\""
+          "Value": "W/\"3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "99d7rv2jsi"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0="
+          "Value": "sha256-3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo="
         }
       ]
     },
     {
-      "Route": "app.css",
+      "Route": "app.99d7rv2jsi.css",
       "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2079,7 +2234,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2841"
+          "Value": "911"
         },
         {
           "Name": "Content-Type",
@@ -2087,121 +2242,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0=\""
+          "Value": "\"3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0="
-        }
-      ]
-    },
-    {
-      "Route": "app.css.gz",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-w7mf952350.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1564"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s="
-        }
-      ]
-    },
-    {
-      "Route": "app.w7mf952350.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-w7mf952350.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000638977636"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1564"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w7mf952350"
+          "Value": "99d7rv2jsi"
         },
         {
           "Name": "label",
@@ -2209,13 +2264,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0="
+          "Value": "sha256-3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo="
         }
       ]
     },
     {
-      "Route": "app.w7mf952350.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/app.css",
+      "Route": "app.99d7rv2jsi.css.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-99d7rv2jsi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2224,7 +2279,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2841"
+          "Value": "405"
         },
         {
           "Name": "Content-Type",
@@ -2232,56 +2287,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0=\""
+          "Value": "\"oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w7mf952350"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PNvEyASL960qpWmVJ5Purzbr0F4hodQnu+u/XkKHuE0="
-        }
-      ]
-    },
-    {
-      "Route": "app.w7mf952350.css.gz",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-w7mf952350.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1564"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2299,7 +2309,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w7mf952350"
+          "Value": "99d7rv2jsi"
         },
         {
           "Name": "label",
@@ -2307,7 +2317,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DJ7KEILvHL5aC7rQl0LK44Ba3YizMJbQnbVUsn6Uw0s="
+          "Value": "sha256-oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-99d7rv2jsi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002463054187"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "405"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 21:09:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 21:09:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3fWTUyaeYoAQgvoIDFtN8CRJ3fS2AiFQ1QslLf9ipTo="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-99d7rv2jsi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 21:09:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oHxQs5d9OTCawcxM2ney+uhsSoQRiDe/0rjpUrFNIBs="
         }
       ]
     },
@@ -2390,6 +2537,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/facebook.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/facebook.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vNETeOthMxhqJCS/LB3vtQAAzYiTiZAWZp8GZuzX9+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:14:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vNETeOthMxhqJCS/LB3vtQAAzYiTiZAWZp8GZuzX9+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/facebook.w72a02umm9.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/facebook.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vNETeOthMxhqJCS/LB3vtQAAzYiTiZAWZp8GZuzX9+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:14:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w72a02umm9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/facebook.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vNETeOthMxhqJCS/LB3vtQAAzYiTiZAWZp8GZuzX9+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/instagram.cwgb8d7wm4.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/instagram.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TPaGPBJkpbAeRUqs2xGrvNnh+nuF+iF9TURSIzXXYl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:13:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwgb8d7wm4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/instagram.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TPaGPBJkpbAeRUqs2xGrvNnh+nuF+iF9TURSIzXXYl0="
+        }
+      ]
+    },
+    {
+      "Route": "images/instagram.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/instagram.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TPaGPBJkpbAeRUqs2xGrvNnh+nuF+iF9TURSIzXXYl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:13:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TPaGPBJkpbAeRUqs2xGrvNnh+nuF+iF9TURSIzXXYl0="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.d4lg20xf2c.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ex/oz3CY7pjtIB53l19na4qlZFyv9WxdPZ9Yv+7cHaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:12:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4lg20xf2c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/linkedin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ex/oz3CY7pjtIB53l19na4qlZFyv9WxdPZ9Yv+7cHaQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ex/oz3CY7pjtIB53l19na4qlZFyv9WxdPZ9Yv+7cHaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:12:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ex/oz3CY7pjtIB53l19na4qlZFyv9WxdPZ9Yv+7cHaQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.nlgy80k62y.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"da/N+W8IKMzqIEEuFS7lwRef3XVFvepH5An30BGafds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:12:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlgy80k62y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-da/N+W8IKMzqIEEuFS7lwRef3XVFvepH5An30BGafds="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"da/N+W8IKMzqIEEuFS7lwRef3XVFvepH5An30BGafds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:12:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-da/N+W8IKMzqIEEuFS7lwRef3XVFvepH5An30BGafds="
+        }
+      ]
+    },
+    {
+      "Route": "images/philosophy-pic.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/philosophy-pic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"erDJoK6XKJik9qGQBGkRCXA4qk4dM0QVKPslO9zoNR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 17:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-erDJoK6XKJik9qGQBGkRCXA4qk4dM0QVKPslO9zoNR4="
+        }
+      ]
+    },
+    {
+      "Route": "images/philosophy-pic.qnzc0sy8x0.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/philosophy-pic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"erDJoK6XKJik9qGQBGkRCXA4qk4dM0QVKPslO9zoNR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 17:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qnzc0sy8x0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/philosophy-pic.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-erDJoK6XKJik9qGQBGkRCXA4qk4dM0QVKPslO9zoNR4="
+        }
+      ]
+    },
+    {
+      "Route": "images/pinterest.p9m4f3nv5j.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/pinterest.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vdTYJ8eEsbA+KU/mhBYDf0F8pW1teg5zffws65fzkhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:14:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p9m4f3nv5j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pinterest.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vdTYJ8eEsbA+KU/mhBYDf0F8pW1teg5zffws65fzkhg="
+        }
+      ]
+    },
+    {
+      "Route": "images/pinterest.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/pinterest.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vdTYJ8eEsbA+KU/mhBYDf0F8pW1teg5zffws65fzkhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:14:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vdTYJ8eEsbA+KU/mhBYDf0F8pW1teg5zffws65fzkhg="
+        }
+      ]
+    },
+    {
+      "Route": "images/trees.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/trees.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qjf1H7eUmsaMuUfwCx3kgz4LMjGqBb6sH44QmIW+X4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:13:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qjf1H7eUmsaMuUfwCx3kgz4LMjGqBb6sH44QmIW+X4w="
+        }
+      ]
+    },
+    {
+      "Route": "images/trees.q9yx1bvob0.png",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/trees.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qjf1H7eUmsaMuUfwCx3kgz4LMjGqBb6sH44QmIW+X4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 16:13:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9yx1bvob0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trees.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qjf1H7eUmsaMuUfwCx3kgz4LMjGqBb6sH44QmIW+X4w="
         }
       ]
     },
@@ -2671,7 +3392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2732,7 +3453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2777,7 +3498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2877,7 +3598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,7 +3651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2967,7 +3688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3106,7 +3827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3167,7 +3888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3212,7 +3933,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3312,7 +4033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3365,7 +4086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3402,7 +4123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3702,7 +4423,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3763,7 +4484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3808,7 +4529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3908,7 +4629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3961,7 +4682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3998,7 +4719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4298,7 +5019,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4359,7 +5080,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4404,7 +5125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4504,7 +5225,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4557,7 +5278,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4594,7 +5315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4894,7 +5615,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4955,7 +5676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5000,7 +5721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5100,7 +5821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5153,7 +5874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5190,7 +5911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5490,7 +6211,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5551,7 +6272,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5596,7 +6317,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5696,7 +6417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5749,7 +6470,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5786,7 +6507,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5925,7 +6646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5986,7 +6707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6031,7 +6752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6131,7 +6852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6184,7 +6905,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6221,7 +6942,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6405,7 +7126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6466,7 +7187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6511,7 +7232,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6566,7 +7287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6619,7 +7340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6656,7 +7377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7323,7 +8044,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7376,7 +8097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7413,7 +8134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7460,7 +8181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7521,7 +8242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7566,7 +8287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7874,7 +8595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7935,7 +8656,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7980,7 +8701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8080,7 +8801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8133,7 +8854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8170,7 +8891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8515,7 +9236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8576,7 +9297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8621,7 +9342,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8676,7 +9397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8729,7 +9450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8766,7 +9487,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9111,7 +9832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9164,7 +9885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9201,7 +9922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9248,7 +9969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9309,7 +10030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9354,7 +10075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9707,7 +10428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9760,7 +10481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9797,7 +10518,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9844,7 +10565,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9905,7 +10626,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9950,7 +10671,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10303,7 +11024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10356,7 +11077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10393,7 +11114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10440,7 +11161,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10501,7 +11222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10546,7 +11267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10899,7 +11620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10960,7 +11681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11005,7 +11726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11060,7 +11781,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11113,7 +11834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11150,7 +11871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11289,7 +12010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11350,7 +12071,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11395,7 +12116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11495,7 +12216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11548,7 +12269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11585,7 +12306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12207,7 +12928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12268,7 +12989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12313,7 +13034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12413,7 +13134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12466,7 +13187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12503,7 +13224,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12848,7 +13569,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12909,7 +13630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12954,7 +13675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13009,7 +13730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13062,7 +13783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13099,7 +13820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13283,7 +14004,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13344,7 +14065,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13389,7 +14110,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13444,7 +14165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13497,7 +14218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13534,7 +14255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13879,7 +14600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13932,7 +14653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13969,7 +14690,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14016,7 +14737,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14077,7 +14798,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14122,7 +14843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14475,7 +15196,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14536,7 +15257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14581,7 +15302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14636,7 +15357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14689,7 +15410,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14726,7 +15447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15026,7 +15747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15087,7 +15808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15132,7 +15853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15232,7 +15953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15285,7 +16006,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15322,7 +16043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:17 GMT"
+          "Value": "Thu, 17 Apr 2025 21:08:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15506,13 +16227,13 @@
       ]
     },
     {
-      "Route": "WoodenCraft.axl6txk15a.bundle.scp.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-axl6txk15a.gz",
+      "Route": "WoodenCraft.5btw8h4h8f.bundle.scp.css",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-5btw8h4h8f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566251416"
+          "Quality": "0.002028397566"
         }
       ],
       "ResponseHeaders": [
@@ -15522,15 +16243,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15550,13 +16271,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "W/\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axl6txk15a"
+          "Value": "5btw8h4h8f"
         },
         {
           "Name": "label",
@@ -15564,12 +16285,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
     {
-      "Route": "WoodenCraft.axl6txk15a.bundle.scp.css",
+      "Route": "WoodenCraft.5btw8h4h8f.bundle.scp.css",
       "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/projectbundle/WoodenCraft.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15579,7 +16300,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "1291"
         },
         {
           "Name": "Content-Type",
@@ -15587,11 +16308,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15601,7 +16322,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axl6txk15a"
+          "Value": "5btw8h4h8f"
         },
         {
           "Name": "label",
@@ -15609,13 +16330,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
     {
-      "Route": "WoodenCraft.axl6txk15a.bundle.scp.css.gz",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-axl6txk15a.gz",
+      "Route": "WoodenCraft.5btw8h4h8f.bundle.scp.css.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-5btw8h4h8f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15624,7 +16345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -15632,11 +16353,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15654,7 +16375,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axl6txk15a"
+          "Value": "5btw8h4h8f"
         },
         {
           "Name": "label",
@@ -15662,18 +16383,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4="
+          "Value": "sha256-2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0="
         }
       ]
     },
     {
-      "Route": "WoodenCraft.axl6txk15a.styles.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-axl6txk15a.gz",
+      "Route": "WoodenCraft.5btw8h4h8f.styles.css",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-5btw8h4h8f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566251416"
+          "Quality": "0.002028397566"
         }
       ],
       "ResponseHeaders": [
@@ -15683,15 +16404,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15711,13 +16432,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "W/\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axl6txk15a"
+          "Value": "5btw8h4h8f"
         },
         {
           "Name": "label",
@@ -15725,12 +16446,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
     {
-      "Route": "WoodenCraft.axl6txk15a.styles.css",
+      "Route": "WoodenCraft.5btw8h4h8f.styles.css",
       "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/bundle/WoodenCraft.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15740,7 +16461,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "1291"
         },
         {
           "Name": "Content-Type",
@@ -15748,11 +16469,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15762,7 +16483,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axl6txk15a"
+          "Value": "5btw8h4h8f"
         },
         {
           "Name": "label",
@@ -15770,13 +16491,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
     {
-      "Route": "WoodenCraft.axl6txk15a.styles.css.gz",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-axl6txk15a.gz",
+      "Route": "WoodenCraft.5btw8h4h8f.styles.css.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-5btw8h4h8f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15785,7 +16506,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -15793,11 +16514,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15815,7 +16536,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axl6txk15a"
+          "Value": "5btw8h4h8f"
         },
         {
           "Name": "label",
@@ -15823,18 +16544,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4="
+          "Value": "sha256-2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0="
         }
       ]
     },
     {
       "Route": "WoodenCraft.bundle.scp.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-axl6txk15a.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-5btw8h4h8f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566251416"
+          "Quality": "0.002028397566"
         }
       ],
       "ResponseHeaders": [
@@ -15844,15 +16565,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15872,13 +16593,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "W/\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
@@ -15893,7 +16614,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "1291"
         },
         {
           "Name": "Content-Type",
@@ -15901,11 +16622,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15915,13 +16636,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
     {
       "Route": "WoodenCraft.bundle.scp.css.gz",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-axl6txk15a.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-5btw8h4h8f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15930,7 +16651,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -15938,11 +16659,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15960,18 +16681,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4="
+          "Value": "sha256-2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0="
         }
       ]
     },
     {
       "Route": "WoodenCraft.styles.css",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-axl6txk15a.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-5btw8h4h8f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566251416"
+          "Quality": "0.002028397566"
         }
       ],
       "ResponseHeaders": [
@@ -15981,15 +16702,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16009,13 +16730,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "W/\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
@@ -16030,7 +16751,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "1291"
         },
         {
           "Name": "Content-Type",
@@ -16038,11 +16759,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94=\""
+          "Value": "\"nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16052,13 +16773,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gmq8zEhPmXLfpICugRfDRgMNZnGPnjSVXvIZpkmAh94="
+          "Value": "sha256-nzfkjPhDvLbNMySufsclqy3bBO2GHLLv00wTmDaMQ9U="
         }
       ]
     },
     {
       "Route": "WoodenCraft.styles.css.gz",
-      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-axl6txk15a.gz",
+      "AssetFile": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-5btw8h4h8f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16067,7 +16788,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1765"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -16075,11 +16796,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4=\""
+          "Value": "\"2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:59:44 GMT"
+          "Value": "Fri, 18 Apr 2025 17:30:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16097,7 +16818,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mh4NzYwifNjEn3zZVTUrcp7xsrVrQXQfObvp5DJrHT4="
+          "Value": "sha256-2KCLIs5DZRmqyAmy0CdPiCxt98Sj7/1dEBH3hShnNg0="
         }
       ]
     }

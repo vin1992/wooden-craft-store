@@ -32,10 +32,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,10 +44,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jgshcysjjv
+
+[/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-lu30p1zmvk
+
 [/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-z8ty8taku0
 
-[/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-fyaxnhngjj
+[/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-rg1wvqqfm4
+
+[/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/Components/Philosophy.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QaGlsb3NvcGh5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-voai3c3qlq

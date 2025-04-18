@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/projectbundle/WoodenCraft.bundle.scp.css",
-      "PackagePath": "staticwebassets/WoodenCraft.axl6txk15a.bundle.scp.css"
+      "PackagePath": "staticwebassets/WoodenCraft.5btw8h4h8f.bundle.scp.css"
     },
     {
       "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/app.css",
@@ -11,6 +11,34 @@
     {
       "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/facebook.png",
+      "PackagePath": "staticwebassets/images/facebook.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/instagram.png",
+      "PackagePath": "staticwebassets/images/instagram.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/linkedin.png",
+      "PackagePath": "staticwebassets/images/linkedin.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/philosophy-pic.png",
+      "PackagePath": "staticwebassets/images/philosophy-pic.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/pinterest.png",
+      "PackagePath": "staticwebassets/images/pinterest.png"
+    },
+    {
+      "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/images/trees.png",
+      "PackagePath": "staticwebassets/images/trees.png"
     },
     {
       "Id": "/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",

@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--primary-light);
+    max-width: 100%;
+    
+    .pic {
+        width: 318px;
+        height: 300px;
+        img {
+            width: 100%;
+        }
+    }
+    .h1 {
+        color: var(--secondary-dark);
+        width: 496px;
+        text-align: center;
+    }
+}

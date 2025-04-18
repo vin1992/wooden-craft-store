@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WoodenCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a41bd56a7ea6146f397bbbfdc933a95315221462")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44a9f2e0a142525805dd388c87cefd85d9b14241")]
 [assembly: System.Reflection.AssemblyProductAttribute("WoodenCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WoodenCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

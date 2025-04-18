@@ -1,0 +1,13 @@
+@using System.ComponentModel.DataAnnotations
+<div class="container">
+    <div class="pic">
+        <img src="@Assets["images/philosophy-pic.png"]" alt="">
+    </div>
+    <h1 class="h1">@Title</h1>
+</div>
+
+@code {
+
+    [Parameter] public string Title { get; set; } = "Natural.Playful \n .Imaginative. Cozy.";
+
+}

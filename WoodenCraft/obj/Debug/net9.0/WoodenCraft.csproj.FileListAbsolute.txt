@@ -14,10 +14,8 @@
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/WoodenCraft.MvcApplicationPartsAssemblyInfo.cache
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/WoodenCraft.sourcelink.json
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
-/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/bundle/WoodenCraft.styles.css
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/projectbundle/WoodenCraft.bundle.scp.css
-/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-w7mf952350.gz
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/tdjuu0w8zy-bqjiyaj88i.gz
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/hngpalfhit-c2jlpeoesf.gz
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/43in09gqv9-erw9l3u2r3.gz
@@ -62,8 +60,6 @@
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/s9hg4j7j22-h1s4sie4z3.gz
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/1ltszveoca-63fj8s7r0e.gz
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/ey8ee0ptu0-0j3bgjxly4.gz
-/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-axl6txk15a.gz
-/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-axl6txk15a.gz
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/staticwebassets.build.json
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/staticwebassets.development.json
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -78,3 +74,9 @@
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/WoodenCraft.pdb
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/WoodenCraft.genruntimeconfig.cache
 /Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/ref/WoodenCraft.dll
+/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/a7k45eokvb-99d7rv2jsi.gz
+/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/Components/Layout/Footer.razor.rz.scp.css
+/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/Components/Layout/Header.razor.rz.scp.css
+/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/scopedcss/Components/Philosophy.razor.rz.scp.css
+/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/gm5j2dnzja-5btw8h4h8f.gz
+/Users/xuzhigang/AC/2025W/WD2/Practice/wooden-craft-store/WoodenCraft/obj/Debug/net9.0/compressed/pfi6jexzz2-5btw8h4h8f.gz

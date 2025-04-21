@@ -1,16 +1,16 @@
 ﻿@page "/"
-
+@rendermode InteractiveServer
 <PageTitle>Home</PageTitle>
 
 <Philosophy></Philosophy>
 
-@foreach (var craft in craftList)
-{
-    <CraftItem Craft="craft"></CraftItem>
-}
+
+<CustomCarousel></CustomCarousel>
+
+
 
 @code {
+    
 
-    private List<Craft> craftList = Helper.GetCrafts();
 
 }

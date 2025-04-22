@@ -1,0 +1,18 @@
+.multi-row-carousel {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.multi-row-carousel-slide {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 items per row */
+    gap: 40px; /* spacing between items both horizontally and vertically */
+    width: 80%;
+    justify-items: center; /* optional: center items horizontally inside each cell */
+}
+
+
+::deep .rz-button {
+    border-radius: 50%;
+}
+

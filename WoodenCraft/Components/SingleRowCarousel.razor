@@ -1,0 +1,44 @@
+@rendermode InteractiveServer
+
+<div class="single-row-carousel">
+    <RadzenCarousel @ref=carousel Auto="false" AllowNavigation="@allowNavigation"
+                    AllowPaging="@allowPaging"
+                    class="rz-mx-auto"
+                    ButtonStyle="@style" ButtonSize="@size" ButtonShade="@shade" ButtonVariant="@variant" >
+        <Items>
+            @foreach (var page in PageCrafts)
+            {
+                <RadzenCarouselItem>
+                    <div class="single-row-carousel-slide">
+                        @foreach (var craft in page)
+                        {
+                            <CraftItem Craft="craft"></CraftItem>
+                        }
+                    </div>
+                </RadzenCarouselItem>
+            }
+        </Items>
+    </RadzenCarousel>
+</div>
+
+
+
+@code {
+
+    RadzenCarousel? carousel;
+    bool allowNavigation = true;
+    Variant variant = Variant.Filled;
+    ButtonStyle style = ButtonStyle.Base;
+    Shade shade = Shade.Lighter;
+    ButtonSize size = ButtonSize.Large;
+    bool allowPaging = false;
+    
+    [Parameter] public List<Craft> Crafts { get; set; }
+
+    private int PageSize => 3;
+
+    private int PageCount => (Crafts.Count + PageSize - 1) / PageSize;
+    // need refactor this logic when having the real data. because we might need to implement the pagination features.
+    private List<List<Craft>> PageCrafts => Enumerable.Range(0, PageCount).Select(i => Crafts.Skip(i * PageSize).Take(PageSize).ToList()).ToList();
+    
+}

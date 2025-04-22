@@ -95,6 +95,57 @@ public class Helper
     };
     crafts.Add(craft);
     
+    craft = new Craft
+    {
+      Id = 1007,
+      Name = "Night Light",
+      Description = "Made up of wood",
+      Size = 48,
+      Price = 99.99,
+      Url = "images/crafts/8.png"
+    };
+    crafts.Add(craft);
+    craft = new Craft
+    {
+      Id = 1007,
+      Name = "Night Light",
+      Description = "Made up of wood",
+      Size = 48,
+      Price = 99.99,
+      Url = "images/crafts/8.png"
+    };
+    crafts.Add(craft);
+    craft = new Craft
+    {
+      Id = 1007,
+      Name = "Night Light",
+      Description = "Made up of wood",
+      Size = 48,
+      Price = 99.99,
+      Url = "images/crafts/8.png"
+    };
+    crafts.Add(craft);
+    craft = new Craft
+    {
+      Id = 1007,
+      Name = "Night Light",
+      Description = "Made up of wood",
+      Size = 48,
+      Price = 99.99,
+      Url = "images/crafts/8.png"
+    };
+    crafts.Add(craft);
+    craft = new Craft
+    {
+      Id = 1007,
+      Name = "Night Light",
+      Description = "Made up of wood",
+      Size = 48,
+      Price = 99.99,
+      Url = "images/crafts/8.png"
+    };
+    crafts.Add(craft);
+    
     return crafts;
   }
 

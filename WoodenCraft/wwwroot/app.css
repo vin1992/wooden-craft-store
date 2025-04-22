@@ -18,6 +18,8 @@
     --status-success: #20DE02;
 
     /* global font family*/
+    /* considering the limit space of our server, I suggest we only use two font styles. 
+    Otherwise, we need to put these font files into our project, it will occupy some extra space.*/
     --font-heading: "Playfair Display", serif;
     --font-body: "Noto Sans", sans-serif;
 }

@@ -5,12 +5,12 @@
 <Philosophy></Philosophy>
 
 
-<CustomCarousel></CustomCarousel>
+<MultiRowCarousel Crafts="craftList"></MultiRowCarousel>
 
-
+<SingleRowCarousel Crafts="craftList"></SingleRowCarousel>
 
 @code {
     
-
-
+    private List<Craft>? craftList = Helper.GetCrafts();
+    
 }

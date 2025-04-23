@@ -149,7 +149,17 @@ public class Helper
     return crafts;
   }
 
+  public static List<string> GetImages()
+  {
+    List<string> images = [];
 
+    for (int i = 1; i <= 3; i++)
+    {
+      images.Add($"images/crafts/{i}.png");
+    }
+    
+    return images;
+  }
 
   
 }

@@ -1,0 +1,37 @@
+@using System.ComponentModel.DataAnnotations
+@rendermode InteractiveServer
+
+<div class="image-picker">
+    <RadzenCarousel @bind-SelectedIndex="currentIndex"
+                    AllowNavigation="false"
+                    AllowPaging="false"
+                    Auto="false">
+        <Items>
+            @foreach (var image in Images)
+            {
+                <RadzenCarouselItem @key="image">
+                    <div class="image-container">
+                        <img src="@image" />
+                    </div>
+                </RadzenCarouselItem>
+            }
+        </Items>
+    </RadzenCarousel>
+
+    <div class="thumbnails">
+        @for (int i = 0; i < Images.Count; i++)
+        {
+            <div class="thumb-item" @onclick="() => currentIndex = i" @key="i">
+                <img src="@Images[i]" class="thumb @(i == currentIndex ? "active-thumb" : "")" />
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private int currentIndex = 0;
+
+    [Parameter]
+    [Required]
+    public List<string> Images { get; set; } = new();
+}

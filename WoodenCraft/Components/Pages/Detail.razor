@@ -1,0 +1,13 @@
+@page "/detail/{Id:int}"
+
+<PageTitle>Detail</PageTitle>
+<div class="detail h1">
+    This is Detail Page 
+    <div class="h2">UserId: @Id</div>
+</div>
+
+@code {
+
+    [Parameter] public int Id { get; set; }
+
+}

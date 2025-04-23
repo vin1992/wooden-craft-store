@@ -1,7 +1,9 @@
 @using System.ComponentModel.DataAnnotations
 @using WoodenCraft
 
-<div class="craft">
+@inject NavigationManager Navigation
+
+<div class="craft" @onclick="() => GoToDetails(Craft.Id)">
     <div class="pic">
         <img src="@Assets[@Craft.Url]" alt="">
     </div>
@@ -17,5 +19,10 @@
 @code {
 
     [Parameter]
-    [Required] public Craft Craft { get; set; } 
+    [Required] public Craft Craft { get; set; }
+
+    private void GoToDetails(int id)
+    {
+        Navigation.NavigateTo($"/detail/{id}");
+    }
 }

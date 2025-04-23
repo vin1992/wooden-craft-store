@@ -4,6 +4,7 @@
 
 <Philosophy></Philosophy>
 
+<ImagePicker Images="ImageList"></ImagePicker>
 
 <MultiRowCarousel Crafts="craftList"></MultiRowCarousel>
 
@@ -12,5 +13,5 @@
 @code {
     
     private List<Craft>? craftList = Helper.GetCrafts();
-    
+    private List<string> ImageList = Helper.GetImages();
 }

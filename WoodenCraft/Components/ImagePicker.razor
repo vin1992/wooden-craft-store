@@ -2,16 +2,16 @@
 @rendermode InteractiveServer
 
 <div class="image-picker">
-    <RadzenCarousel @bind-SelectedIndex="currentIndex"
+    <RadzenCarousel @bind-SelectedIndex="@currentIndex"
                     AllowNavigation="false"
                     AllowPaging="false"
                     Auto="false">
         <Items>
-            @foreach (var image in Images)
+            @foreach (var imageUrl in Images)
             {
-                <RadzenCarouselItem @key="image">
+                <RadzenCarouselItem @key="imageUrl">
                     <div class="image-container">
-                        <img src="@image" />
+                        <img src="@imageUrl" />
                     </div>
                 </RadzenCarouselItem>
             }
@@ -21,8 +21,12 @@
     <div class="thumbnails">
         @for (int i = 0; i < Images.Count; i++)
         {
-            <div class="thumb-item" @onclick="() => currentIndex = i" @key="i">
-                <img src="@Images[i]" class="thumb @(i == currentIndex ? "active-thumb" : "")" />
+            // 捕获循环变量
+            var imageIndex = i;
+            var currentImageUrl = Images[i];
+
+            <div class="thumb-item" @key="currentImageUrl" @onclick="() => SetCurrentIndex(imageIndex)">
+                <img src="@currentImageUrl" class="thumb @(i == currentIndex ? "active-thumb" : "")" />
             </div>
         }
     </div>
@@ -34,4 +38,24 @@
     [Parameter]
     [Required]
     public List<string> Images { get; set; } = new();
+
+    private void SetCurrentIndex(int index)
+    {
+        if (index >= 0 && index < Images.Count)
+        {
+            currentIndex = index;
+        }
+    }
+
+    protected override void OnParametersSet()
+    {
+        if (currentIndex >= Images.Count && Images.Count > 0)
+        {
+            currentIndex = Images.Count - 1;
+        }
+        else if (Images.Count == 0)
+        {
+             currentIndex = 0;
+        }
+    }
 }

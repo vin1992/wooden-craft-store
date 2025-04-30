@@ -60,3 +60,4 @@ dkms.conf
 
 secrets.json
 
+*.DS_Store

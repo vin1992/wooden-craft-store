@@ -1,16 +1,67 @@
 ﻿@page "/"
+@using System.ComponentModel.DataAnnotations
 @rendermode InteractiveServer
+
 <PageTitle>Home</PageTitle>
 
 <Philosophy></Philosophy>
 
-<ImagePicker Images="ImageList"></ImagePicker>
+@* <ImagePicker Images="ImageList"></ImagePicker> *@
+@* <SingleRowCarousel Crafts="craftList"></SingleRowCarousel> *@
 
-<MultiRowCarousel Crafts="craftList"></MultiRowCarousel>
 
-<SingleRowCarousel Crafts="craftList"></SingleRowCarousel>
+<div class="products">
+    <h3 class="h3">Feature Products</h3>
+    <MultiRowCarousel Crafts="craftList"></MultiRowCarousel>
+</div>
+
+<div class="subscription">
+    <h1 class="h1">Join Our Wooden World</h1>
+    <h2 class="h2">Handmade updates, naturally delivered.</h2>
+    <div class="sub-container">
+        <EditForm Model="_subscription" FormName="SubscribeForm" OnValidSubmit="SubmitSubscription" Enhance>
+            <DataAnnotationsValidator/>
+            <div class="names">
+                <div class="name first">
+                    <label for="first-name">First Name</label>
+                    <InputText id="first-name" @bind-Value="_subscription.FirstName"></InputText>
+                    <ValidationMessage For="@(() => _subscription.FirstName)"/>
+                </div>
+                <div class="name last">
+                    <label for="last-name">Last Name</label>
+                    <InputText id="last-name" @bind-Value="_subscription.LastName"></InputText>
+                    <ValidationMessage For="@(() => _subscription.LastName)"/>
+
+                </div>
+            </div>
+            <div class="name email">
+                <label for="email">Email</label>
+                <InputText id="email" @bind-Value="_subscription.Email"></InputText>
+                <ValidationMessage For="@(() => _subscription.Email)"/>
+            </div>
+            <button class="btn btn-primary">Subscribe</button>
+        </EditForm>
+    </div>
+</div>
 
 @code {
+    private class Subscription
+    {   
+        [Required]
+        public string FirstName { get; set; }
+        
+        [Required]
+        public string LastName { get; set; }
+        
+        [Required]
+        public string Email { get; set; }
+    }
+    private Subscription _subscription = new();
+
+    private void SubmitSubscription()
+    {
+        Console.WriteLine("Submitted!!");
+    }
     
     private List<Craft>? craftList = Helper.GetCrafts();
     private List<string> ImageList = Helper.GetImages();

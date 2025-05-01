@@ -60,6 +60,7 @@
             border-radius: 8px;
             border: none;
             height: 40px;
+            padding: 0 10px;
         }
         
         label {
@@ -67,12 +68,28 @@
             margin-bottom: 5px;
         }
     }
+    
     .email {
         margin-top: 10px;
     }
+    
     button {
         margin-top: 30px;
     }
 }
 
 
+
+::deep .sub-container .name input.valid.modified {
+    outline: 3px solid var(--status-success);
+}
+
+::deep .sub-container .name input.invalid {
+    outline: 3px solid var(--status-error);
+}
+
+::deep .validation-message {
+    color: var(--status-error);
+    text-align: left;
+    white-space: nowrap;
+}

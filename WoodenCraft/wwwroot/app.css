@@ -52,14 +52,3 @@ html, body {
     font-size: 20px;
 }
 
-.valid {
-    outline: 3px solid var(--status-success);
-}
-
-.invalid {
-    outline: 3px solid var(--status-error);
-}
-
-.validation-message {
-    color: var(--status-error);
-}

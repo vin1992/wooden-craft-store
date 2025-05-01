@@ -1,0 +1,46 @@
+@inject NavigationManager Nav;
+
+<header>
+    <NavLink class="logo" href="/">
+        <img src="@Assets["images/logo.png"]" alt="">
+    </NavLink>
+    <nav>
+        <div class="nav">
+            <a href="">Shop Art</a>
+            <a href="">Meet the Artist</a>
+            <a href="">Subscribe</a>
+            <a href="">Login/Register</a>
+        </div>
+        
+        <div class="search-area">
+            <div class="search">
+                <EditForm EditContext="new EditContext(this)" Enhance OnValidSubmit="SearchProducts">
+                    <button type="submit">
+                        <i class="ico search-ico"></i>
+                    </button>
+                    <InputText class="search-input" @bind-Value="@Products"></InputText>
+                </EditForm>
+            </div>
+            <div class="cart" @onclick="GotoCart">
+                <i class="ico craft-ico"></i>
+            </div>
+        </div>
+    </nav>
+</header>
+
+@code {
+
+    private string Products { get; set; }
+
+    private void SearchProducts()
+    {
+        Console.WriteLine("Search Something");
+    }
+
+    private void GotoCart()
+    {
+        Console.WriteLine("Click Something");
+
+        Nav.NavigateTo("/");
+    }
+}

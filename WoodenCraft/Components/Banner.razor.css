@@ -1,0 +1,21 @@
+.banner {
+    background-color: var(--primary-base);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+    padding: 50px 10%;
+    .text {
+        color: var(--greyscale-brown);
+        flex:1;
+    }
+    .picture {
+        flex:1;
+        aspect-ratio: 16/9;
+        border-radius: 80px;
+        overflow: hidden;
+        img {
+            width: 100%;
+        }
+    }
+}

@@ -1,0 +1,24 @@
+@page "/cart"
+@rendermode InteractiveServer
+
+<PageTitle>My Cart</PageTitle>
+
+<Button></Button>
+<Button Size="medium"></Button>
+<Button Size="small"></Button>
+
+<Button Type="secondary"></Button>
+<Button Type="secondary" Size="medium"></Button>
+<Button Type="secondary" Size="small"></Button>
+
+<Button Type="tertiary" OnClick="HandleClick"></Button>
+<Button Type="tertiary" Size="medium"></Button>
+<Button Type="tertiary" Size="small"></Button>
+
+@code {
+    private void HandleClick()
+    {
+        Console.WriteLine("Button Clicked!!!");
+    }
+
+}

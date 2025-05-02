@@ -1,0 +1,53 @@
+.primary {
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    background-color: var(--secondary-base);
+    color: var(--greyscale-white);
+    &:hover {
+        background-color: var(--secondary-dark);
+    }
+    &.medium {
+        padding: 10px 15px;
+    }
+    &.small {
+        padding: 10px 10px;
+    }
+}
+
+.secondary {
+    border: 2px solid var(--secondary-base);
+    outline: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: var(--secondary-base);
+    &:hover {
+        color: var(--secondary-dark);
+        border-color: var(--secondary-dark);
+    }
+    &.medium {
+        padding: 10px 15px;
+    }
+    &.small {
+        padding: 10px 10px;
+    }
+}
+
+.tertiary {
+    border:none;
+    outline: none;
+    background-color: transparent;
+    color: var(--secondary-base);
+    text-decoration: underline;
+    &:hover {
+        color: var(--secondary-dark);
+    }
+    &.medium {
+        padding: 10px 15px;
+    }
+    &.small {
+        padding: 10px 10px;
+    }
+}

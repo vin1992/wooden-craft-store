@@ -1,0 +1,12 @@
+<button class="@($"{Type.ToLower()} {Size.ToLower()} bt-txt-{Size.ToLower()[0]}-b")" @onclick="OnClick">
+    @Text
+</button>
+
+
+@code {
+    [Parameter] public string Type { get; set; } = "Primary";
+    [Parameter] public string Size { get; set; } = "Large";
+    [Parameter] public string Text { get; set; } = "Button";
+    [Parameter]
+    public EventCallback OnClick { get; set; }
+}

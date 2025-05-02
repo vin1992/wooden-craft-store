@@ -52,3 +52,51 @@ html, body {
     font-size: 20px;
 }
 
+/*Label */
+.lb-txt-d,.lb-txt-l,.lb-txt-m,.lb-txt-s {
+    font-family: var(--font-heading);
+}
+.lb-txt-l {
+    font-size: 24px;
+}
+.lb-txt-m {
+    font-size: 20px;
+}
+.lb-txt-d {
+    font-size: 18px;
+}
+.lb-txt-s {
+    font-size: 16px;
+}
+
+/*Button */
+.bt-txt-l-b,.bt-txt-l-r,.bt-txt-m-b,.bt-txt-m-r,.bt-txt-s-b,.bt-txt-s-r {
+    font-family: var(--font-heading);
+}
+/**Regular**/
+
+.bt-txt-l-r {
+    font-size: 28px;
+}
+.bt-txt-m-r {
+    font-size: 23px;
+}
+.bt-txt-s-r {
+    font-size: 20px;
+}
+/**Bold**/
+.bt-txt-l-b {
+    font-size: 28px;
+    font-weight: 500;
+}
+.bt-txt-m-b {
+    font-size: 23px;
+    font-weight: 500;
+}
+.bt-txt-s-b {
+    font-size: 20px;
+    font-weight: 500;
+}
+.caption {
+    font-size: 16px;
+}

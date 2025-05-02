@@ -1,13 +1,40 @@
 @page "/detail/{Id:int}"
 
 <PageTitle>Detail</PageTitle>
-<div class="detail h1">
-    This is Detail Page 
-    <div class="h2">UserId: @Id</div>
+<div class="detail">
+    <ImagePicker Images="ImageList"></ImagePicker>
+    <div class="info">
+        <h1 class="h1 title">Melody Of Lights</h1>
+        <span class="h2 price">$59 USD</span>
+        <p class="description">
+            Bring a touch of magic to your space with this handcrafted driftwood sculpture.  "Melody of Lights" features natural wood, tiny handmade houses, a cotton cloud,
+            and glowing string lights dancing through the air like music notes.  A whimsical ladder climbs toward the sky, inviting dreams and wonder.
+            Each piece is one-of-a-kind, made with reclaimed wood and gentle imagination.  Perfect as a nightlight, decor, or a gift full of warmth and story.
+        </p>
+        <button class="btn btn-primary">Add to Cart</button>
+    </div>
+</div>
+
+<div class="features">
+    <div class="pic">
+        <img src="@Assets["images/feature-pic.png"]" alt="">
+    </div>
+    <ul class="feature">
+        <li>Crafted from natural driftwood and reclaimed wood</li>
+        <li>Each piece is unique</li>
+        <li>Makes a charming gift</li>
+    </ul>
+</div>
+
+<div class="history">
+    <h3 class="h3">Recently Viewed Items</h3>
+    <MultiRowCarousel Crafts="craftList"></MultiRowCarousel>
 </div>
 
 @code {
 
     [Parameter] public int Id { get; set; }
-
+    
+    private List<string> ImageList = Helper.GetImages();
+    private List<Craft>? craftList = Helper.GetCrafts();
 }

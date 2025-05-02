@@ -3,6 +3,17 @@
     justify-content: space-between;
     padding: 0 50px;
     background-color: var(--primary-base);
+    position: relative;
+    border-top: 2px solid var(--secondary-dark);
+    &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: -2px;
+        height: 2px;
+        box-shadow: 0 -4px 6px var(--greyscale-brown);
+    }
 }
 
 .logo {

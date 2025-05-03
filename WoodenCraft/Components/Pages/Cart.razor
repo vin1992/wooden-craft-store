@@ -15,10 +15,24 @@
 <Button Type="tertiary" Size="medium"></Button>
 <Button Type="tertiary" Size="small"></Button>
 
+<Counter @bind-Quantity="quantity" Max="inventory"></Counter>
+
+@foreach (var cart in CartList)
+{
+    <CartItem Cart="cart"></CartItem>
+}
+
 @code {
+    private int quantity = 0;
+    private int inventory = 10;
+    
+    private List<Craft>? CartList = Helper.GetCrafts();
+
+    
     private void HandleClick()
     {
         Console.WriteLine("Button Clicked!!!");
     }
-
+    
+    
 }

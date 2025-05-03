@@ -1,0 +1,41 @@
+.cart-item {
+    background-color: var(--primary-light);
+    border-radius: 10px;
+    display: flex;
+    align-items: stretch;
+    padding: 1rem;
+    .pic {
+        width: 158px;
+        img {
+            width: 100%;
+            aspect-ratio: 16/11;
+            object-fit: cover;
+            border-radius:  5px;
+        }
+    }
+    .content {
+        flex: 1;
+        color: var(--greyscale-grey1);
+        display: flex;
+        flex-direction: column;
+        margin-left: 1rem;
+        .h5 {
+            color: var(--greyscale-brown);
+        }
+        .description {
+            flex: 1;
+        }
+    }
+    .options {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: space-between;
+        .delete {
+            width: 24px;
+            height: 24px;
+            background:url("images/delete.png") no-repeat center scroll;
+            background-size: contain;
+        }
+    }
+}

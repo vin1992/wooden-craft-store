@@ -93,3 +93,7 @@
     text-align: left;
     white-space: nowrap;
 }
+
+::deep .secondary {
+    margin-top: 1.5rem;
+}

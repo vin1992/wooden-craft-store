@@ -1,0 +1,19 @@
+<div class="cart-item">
+    <div class="pic">
+        <img src="@Cart.Url" alt="">
+    </div>
+    <div class="content">
+        <h5 class="h5">@Cart.Name</h5>
+        <p class="description">@Cart.Description</p>
+        <div class="price">$ @Cart.Price</div>
+    </div>
+    <div class="options">
+        <div class="delete"></div>
+        <Counter></Counter>
+    </div>
+</div>
+
+@code {
+    [Parameter]  required 
+    public Craft Cart { get; set; }
+}   

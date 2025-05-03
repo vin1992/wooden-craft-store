@@ -1,0 +1,24 @@
+<div class="counter">
+    <span class="ico decrease" @onclick="() => Update(Quantity - 1)"></span>
+    <div class="quantity">@Quantity</div>
+    <span class="ico increase" @onclick="() => Update(Quantity + 1)"></span>
+</div>
+
+@code {
+    [Parameter]
+    public int Quantity { get; set; }
+    
+    [Parameter]
+    public EventCallback<int> QuantityChanged { get; set; }
+
+    [Parameter] public int Max { get; set; } = 10;
+
+    private Task Update(int newValue)
+    {
+        // clamp the value within the given bounds
+        newValue = Math.Clamp(newValue, 0, Max);
+
+        Quantity = newValue;
+        return QuantityChanged.InvokeAsync(newValue);
+    }
+}

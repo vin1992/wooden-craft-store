@@ -1,0 +1,29 @@
+.counter {
+    display: flex;
+    .ico {
+        width: 24px;
+        height: 24px;
+        background:url("images/decrease.png") no-repeat center scroll;
+        background-size: contain;
+        cursor: pointer;
+        &.increase {
+            background-image: url("images/increase.png");
+            &:hover {
+                background-image: url("images/increase-hover.png");
+            }
+        }
+        &.decrease:hover {
+            background-image: url("images/decrease-hover.png");
+        }
+    }
+    .quantity {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50px;
+        height: 24px;
+        border-radius: 10px;
+        border: 1px solid var(--greyscale-grey1);
+    }
+    
+}

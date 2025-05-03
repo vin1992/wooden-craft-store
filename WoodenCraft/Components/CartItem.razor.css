@@ -4,6 +4,7 @@
     display: flex;
     align-items: stretch;
     padding: 1rem;
+    margin-top: 1rem;
     .pic {
         width: 158px;
         img {
@@ -36,6 +37,7 @@
             height: 24px;
             background:url("images/delete.png") no-repeat center scroll;
             background-size: contain;
+            cursor: pointer;
         }
     }
 }
